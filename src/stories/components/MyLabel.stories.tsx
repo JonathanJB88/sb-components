@@ -58,3 +58,11 @@ CustomFontColor.args = {
   color: 'tertiary',
   fontColor: '#5517ac',
 };
+
+export const CustomBackgroundColor = Template.bind({});
+CustomBackgroundColor.args = {
+  label: 'Hi there',
+  size: 'h1',
+  color: 'tertiary',
+  backgroundColor: '#5517ac',
+};
