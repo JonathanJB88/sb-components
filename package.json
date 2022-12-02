@@ -1,7 +1,6 @@
 {
   "name": "jonidev-mystorybook-components",
   "version": "0.1.0",
-  "private": false,
   "license": "MIT",
   "typings": "dist/index.d.ts",
   "main": "dist/index.js",
